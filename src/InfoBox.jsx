@@ -8,7 +8,7 @@ import WbSunnyIcon from "@mui/icons-material/WbSunny";
 import ThunderstormIcon from "@mui/icons-material/Thunderstorm";
 import "./InfoBox.css";
 
-export const InfoBox = ({  }) => {
+export const InfoBox = ({ info }) => {
   const INIL_IMG =
     "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHdlYXRoZXJ8ZW58MHx8MHx8fDA%3D";
 
