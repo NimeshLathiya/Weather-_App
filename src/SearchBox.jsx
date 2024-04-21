@@ -4,7 +4,7 @@ import Button from "@mui/material/Button";
 import "./Search_Box.css";
 import { jsx } from "@emotion/react";
 
-export const SearchBox = ({  }) => {
+export const SearchBox = ({ updateInfo }) => {
   let [city, setCity] = useState("");
   let [error, setError] = useState(false);
 
