@@ -14,7 +14,7 @@ export const WeatherApp = () => {
   });
 
   let updateInfo = (newInfo) => {
-    setWeatherInfo(newInfo);
+    setWeatherInfo();
   };
 
   return (
