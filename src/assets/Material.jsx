@@ -1,5 +1,5 @@
 import React from "react";
 
-export const  = () => {
+export const Material = () => {
   return <div></div>;
 };
