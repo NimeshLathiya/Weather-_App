@@ -1,5 +1,5 @@
 // import {react} from "react";
-import { InfoBox } from "./InfoBox";
+import {  } from "./InfoBox";
 import { SearchBox } from "./SearchBox";
 import { WeatherApp } from "./WeatherApp";
 
