@@ -19,7 +19,7 @@ export const SearchBox = ({ updateInfo }) => {
       let jsonRes = await res.json();
       // console.log(jsonRes);
       let result = {
-        city: ,
+        city: city,
         temp: jsonRes.main.temp,
         tempMin: jsonRes.main.temp_min,
         tempMax: jsonRes.main.temp_max,
